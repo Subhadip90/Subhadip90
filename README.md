@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Subhadip90
+- 👋 Hi, I’m @Subhadip Chatterjee
 - 👀 I’m interested in playing cricket and watching latest suspense movies and also love to travel.
 - 🌱 I’m currently learning Frontend Web Development
 - 💞️ I’m looking to collaborate with a person who will be guiding me to learn web development, kind of mentoring
