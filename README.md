@@ -1,8 +1,12 @@
 - 👋 Hi, I’m @Subhadip Chatterjee
-- 👀 I’m interested in playing cricket and watching latest suspense movies and also love to travel.
-- 🌱 I’m currently learning Frontend Web Development
-- 💞️ I’m looking to collaborate with a person who will be guiding me to learn web development, kind of mentoring
-- 📫 How to reach me ... please send me a mail at my email id subha.chat143@gmail.com
+- 👨‍💼 I'm having total of 7 years of experience into IT industry, I worked in retail industry as Customer Success Executive.
+- 🌱 I’m currently Attending a Bootcamp on Full Stack JavaScript Bootcamp organized by ineuron.ai and Mentored Hitesh Choudhary sir.
+- 💞️ I’m looking to learn by working on real time projects and ready to join immediately for any company to learn more new things.
+- 📫 How to reach me.  please send me a mail @ subha.chat143@gmail.com
+- 👀 I’m interested in playing cricket and watching suspense movies and also love to travel
+- 🐕 I'm a dog lover
+
+🇮🇳 🇮🇳 🇮🇳 🇮🇳
 
 <!---
 Subhadip90/Subhadip90 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
