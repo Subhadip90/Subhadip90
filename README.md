@@ -51,7 +51,7 @@
 ![JavaScript](https://user-images.githubusercontent.com/50038188/182009958-206a1d0c-a0ae-4a46-b31b-73fcf11d3fcb.png)
 
 
-#### This is it so far, I will keep update this readme file.
+#### This is it so far, I will keep updating my readme file.
 
 
 
