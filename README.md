@@ -1,6 +1,8 @@
 # 💫 About Me:
 I'm Subhadip Chatterjee<br>I am learning Frontend Technologies and working on some personal projects like Portfolio, clones.<br>6 Months of working as a Frontend Developer<br>I am interested in Frontend, Backend, Full Stack and Cloud Technologies<br>I would love to talk about internship and Job opportunities<br>I’m looking to learn by working on real time projects and ready to join immediately for any company to learn more new things.<br>I'm currently focusing on Frontend Technologies, specially on JavaScript and libraries and frameworks<br>I’m looking to collaborate on any open source platform.<br>Check my YouTube Channel here https://www.youtube.com/channel/UCf7svfxGUs4I3rL64dd2gmw<br>
 
+https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/subhadip.chatterjee.9) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/subhadip_chatterjee_1990) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/subhadip-chatterjee) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/subhaspecial) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCf7svfxGUs4I3rL64dd2gmw) 
