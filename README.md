@@ -1,4 +1,4 @@
-Hey There 👋, I'm Subhadip Chatterjee
+# Hey There 👋, I'm Subhadip Chatterjee
 
 A passionate Frontend Developer & YouTuber from India
 
