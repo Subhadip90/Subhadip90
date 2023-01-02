@@ -3,12 +3,19 @@ Hey There 👋, I'm Subhadip Chatterjee
 A passionate Frontend Developer & YouTuber from India
 
 😄 Pronouns: He/Him
+
 🔭 I am learning Frontend Technologies and working on some personal projects like Portfolio, clones
+
 👯 I am interested in Frontend, Backend, Full Stack and Cloud Technologies
+
 🤝 I would love to talk about internship and Job opportunities
+
 🌱 I’m looking to learn by working on real time projects and ready to join immediately for any company to learn more new things
+
 💬 I'm currently focusing on Frontend Technologies, specially on JavaScript and libraries and frameworks
+
 ⚡ I’m looking to collaborate on any open source platform.
+
 💬 Check my YouTube Channel here https://www.youtube.com/channel/UCf7svfxGUs4I3rL64dd2gmw
 
 
