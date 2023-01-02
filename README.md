@@ -1,6 +1,6 @@
-                                                            # Hey There 👋, I'm Subhadip Chatterjee
+# Hey There 👋, I'm Subhadip Chatterjee
 
-                                                   ## A passionate Frontend Developer & YouTuber from India
+## A passionate Frontend Developer & YouTuber from India
 
 😄 Pronouns: He/Him
 
